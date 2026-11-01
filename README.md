@@ -1,2 +1,2 @@
-# OMNIA-AI
-OMNIA AI – a unified AI agent ecosystem platform with discovery, comparison, builder, and automation tools.
+GITHUB_TOKEN=
+NEXT_PUBLIC_SITE_NAME=OMNIA AI
